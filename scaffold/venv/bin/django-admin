@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/nan/Downloads/Scaffold1 copie/scaffold/venv/bin/python3" "$0" "$@"
-' '''
+#!/Users/ecolenan/django_scaffold/scaffold/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

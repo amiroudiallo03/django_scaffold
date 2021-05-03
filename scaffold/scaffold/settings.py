@@ -38,6 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'scaffoldapp.apps.ScaffoldappConfig',
+    'serviceapp.apps.ServiceappConfig',
+    'sitewebapp.apps.SitewebappConfig',
+    'portofolioapp.apps.PortofolioappConfig',
     'faicon',
     'colorfield'
 ]
